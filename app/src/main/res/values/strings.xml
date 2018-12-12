@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestMvpSample</string>
+    <string name="add_country">Добавить страну</string>
+    <string name="country_remove">Удалить</string>
+    <string name="country_edit">Редактировать</string>
+    <string name="country_editing">Редактирование</string>
+    <string name="country_ok">OK</string>
+    <string name="country_cancel">Отмена</string>
+    <string name="add_country_message">Пожалуйста, вводите название английскими буквами.\nПример: Volgograd</string>
+    <string name="name_country">Введите имя страны</string>
+</resources>
